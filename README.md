@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Friend Finder - Node and Express Servers
 
 ### Overview
@@ -128,3 +129,21 @@ After completing the homework please add the piece to your portfolio. Make sure 
 If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
 
 **Good Luck!**
+=======
+# FriendFinder
+
+Friend Finder Application
+
+Description
+
+Friend Finder implements friend matching based on the user's responses to a ten question survey. The user responds to questions with values from 1 (Strongly Disagree) to 5 (Strongly Agree). When the survey is submitted, an existing user record closest to the current user's responses is found and returned. The closest set of user responses is defined as the set with the lowest absolute difference for all ten questions combined.
+
+
+
+Friend Finder application is meant to simulate a simple dating app. The application is implemented using a Node.js and Express server on the back end and the Materialize CSS framework on the front end.
+
+Demo
+
+Friend Finder is deployed to Heroku. Please check it out here.
+
+>>>>>>> a96acf6db11a0c1a16c6bc2ea8fbe344d74c39ab
