@@ -13,6 +13,6 @@ Friend Finder application is meant to simulate a simple dating app. The applicat
 
 Demo
 
-Friend Finder is deployed to Heroku. Please check it out here.
+Friend Finder is deployed to Heroku. Please check it out here[https://sleepy-beyond-91359.herokuapp.com/]
 
 
